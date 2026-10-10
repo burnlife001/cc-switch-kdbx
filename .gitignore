@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+.history/
+
+# 密钥和加密相关
+*.pfx
+*.pem
+*.key
+*.kdbx
+.kdbx_master.cred
+
+# 加密/解密目录
+decrypt/
+
+# 其他
+.DS_Store
+Thumbs.db
+.opencode
+**/.codegraph/
+04.local_push_高危_最后版本覆盖_当前目录(不确认).ps1
